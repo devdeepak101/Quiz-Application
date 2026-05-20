@@ -27,7 +27,7 @@ int main()
 
         printf("\nGame Started...\n\n");
 
-        // 1st Question
+        
         printf("1) Which planet is known as the Red Planet?\n\n");
         printf("a) Venus\n");
         printf("b) Mars\n");
@@ -48,7 +48,7 @@ int main()
         printf("You scored %d points\n\n", point01);
 
 
-        // 2nd Question
+       
         printf("2) What is the capital of Australia?\n\n");
         printf("a) Sydney\n");
         printf("b) Melbourne\n");
@@ -69,7 +69,7 @@ int main()
         printf("You scored %d points\n\n", point02);
 
 
-        // 3rd Question
+        
         printf("3) Who wrote Harry Potter and the Philosopher's Stone?\n\n");
         printf("a) J.R.R. Tolkien\n");
         printf("b) J.K. Rowling\n");
@@ -90,7 +90,6 @@ int main()
         printf("You scored %d points\n\n", point03);
 
 
-        // 4th Question
         printf("4) Which is the largest ocean on Earth?\n\n");
         printf("a) Atlantic Ocean\n");
         printf("b) Indian Ocean\n");
@@ -111,7 +110,7 @@ int main()
         printf("You scored %d points\n\n", point04);
 
 
-        // 5th Question
+        
         printf("5) What is the chemical symbol for gold?\n\n");
         printf("a) Ag\n");
         printf("b) Gd\n");
@@ -132,7 +131,7 @@ int main()
         printf("You scored %d points\n\n", point05);
 
 
-        // 6th Question
+        
         printf("6) Which country gifted the Statue of Liberty to the United States?\n\n");
         printf("a) Germany\n");
         printf("b) Canada\n");
@@ -153,7 +152,7 @@ int main()
         printf("You scored %d points\n\n", point06);
 
 
-        // 7th Question
+        
         printf("7) How many continents are there in the world?\n\n");
         printf("a) 5\n");
         printf("b) 6\n");
@@ -174,7 +173,7 @@ int main()
         printf("You scored %d points\n\n", point07);
 
 
-        // 8th Question
+       
         printf("8) Which gas do plants absorb from the atmosphere?\n\n");
         printf("a) Oxygen\n");
         printf("b) Nitrogen\n");
@@ -195,7 +194,7 @@ int main()
         printf("You scored %d points\n\n", point08);
 
 
-        // 9th Question
+        
         printf("9) Who was the first man to walk on the Moon?\n\n");
         printf("a) Yuri Gagarin\n");
         printf("b) Neil Armstrong\n");
@@ -216,7 +215,7 @@ int main()
         printf("You scored %d points\n\n", point09);
 
 
-        // 10th Question
+        
         printf("10) Which is the longest river in the world?\n\n");
         printf("a) Amazon River\n");
         printf("b) Yangtze River\n");
@@ -237,7 +236,6 @@ int main()
         printf("You scored %d points\n\n", point10);
 
 
-        // Total Score
         totalScore = point01 + point02 + point03 + point04 + point05 +
                      point06 + point07 + point08 + point09 + point10;
 
