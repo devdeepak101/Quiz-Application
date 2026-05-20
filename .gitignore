@@ -1,0 +1,30 @@
+# Executable files
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Debug files
+*.log
+
+# VS Code
+.vscode/
+
+# Code::Blocks
+*.layout
+*.depend
+*.cbp
+
+# Dev-C++
+*.dev
+
+# Turbo C
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+```}
